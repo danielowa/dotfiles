@@ -1,8 +1,6 @@
-# dotfiles
-
 ```
 cd ~
-git clone -b home https://github.com/Danwaji/dotfiles
-
+git clone https://github.com/danielowa/dotfiles
+./dotfiles/install/cdr.sh
 ```
-todo: script to set up symlinks
+todo: script to set up symlinks for doties
