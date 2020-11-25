@@ -1,6 +1,13 @@
+# Dotfiles
+
+## Download
+clone using ssh
 ```
-cd ~
-git clone https://github.com/danielowa/dotfiles
-./dotfiles/install/cdr.sh
+git clone git@github.com:danielowa/dotfiles.git
 ```
-todo: script to set up symlinks for doties
+
+## Install
+create symbolic links from repository to ~
+```
+./dotfiles/scripts/setup_symlinks.sh
+```
