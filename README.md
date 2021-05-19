@@ -11,3 +11,4 @@ create symbolic links from repository to ~
 ```
 ./dotfiles/scripts/setup_symlinks.sh
 ```
+Aliases are loaded when a new terminal is opened
